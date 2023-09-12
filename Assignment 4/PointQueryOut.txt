@@ -1,0 +1,2 @@
+RoundRobinRatingsPart1,1,355,2.0
+RangeRatingsPart1,1,355,2.0
